@@ -1,5 +1,5 @@
 % Performs Weisskoff analysis on EPI images.
-% [N, data_all] = Weisskoff_simple(EPIdata, slice, R, detrend_order, ...
+% [N, data_all] = Weisskoff_analysis(EPIdata, slice, R, detrend_order, ...
 %   discard, center)
 %
 % It take a EPIdata, a matrix of size n by n by slice (top to bottom) by
